@@ -9,6 +9,11 @@ h1 {
         font-size: 80px;
 }
 
+h2 {
+     font-family: 'Quantico', sans-serif;
+     font-weight: bolder;
+     font-size: 60px;
+
 p {
     font-size: 40px;
 }
